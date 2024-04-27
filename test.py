@@ -3,4 +3,4 @@ def main():
 
 if __name__=="__main__":
     main()
-    "githubのforkテスト"
+    print("githubのforkテスト")
